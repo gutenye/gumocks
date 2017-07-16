@@ -1,0 +1,7 @@
+{
+  "name": "node-mocks",
+  "version": "1.0.0",
+  "repository": "gutenye/node-mocks",
+  "main": "index.js",
+  "license": "MIT"
+}
