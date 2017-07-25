@@ -1,7 +1,7 @@
 {
-  "name": "gumocks",
+  "name": "node-mocks",
   "version": "1.0.1",
-  "repository": "gutenye/gumocks",
+  "repository": "gutenye/node-mocks",
   "main": "index.js",
   "license": "MIT"
 }
